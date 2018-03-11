@@ -1,6 +1,6 @@
 # FLUSPECT_RETRIEVE
 
-Based on FLUSPECT model. You can use the input files (reflectance, transmittance) to simulate bio-parameters (Cab, Cw, Cdm ...). And then generate the backward and forward excited fluorescence matrices.
+Based on FLUSPECT model, you can use the input files (reflectance, transmittance) to simulate bio-parameters (Cab, Cw, Cdm ...). And then generate the backward and forward excited fluorescence matrices.
 
 Please place the input files at "FLUSPECT_RETRIEVE\data\measured". The input configure file is at "FLUSPECT_RETRIEVE\data\measured\input_data.xlsx". The results are at "FLUSPECT_RETRIEVE\data\output". 
 
